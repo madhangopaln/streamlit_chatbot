@@ -38,7 +38,8 @@ pip install -r requirements.txt
 ```
 Obtain an API key from OpenAI and add it to the .env file in the project directory.
 ```bash
-OPENAI_API_KEY=your_secrit_api_key
+OPENAI_API_KEY=api_key
+HUGGINGFACEHUB_API_TOKEN= api_key
 ```
 
 
