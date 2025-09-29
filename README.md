@@ -8,6 +8,7 @@ The Chat App is a Python application that allows to chat with multiple PDF docum
 
 ### Working
 
+![](img/img.png)
 
 The application follows these steps to provide responses to your questions:
 
